@@ -1,0 +1,15 @@
+{
+  "categorias": [
+    {
+      "id": "nlVYObaIuKw",
+      "nome": "Shoppings",
+      "descricao": "Lugar para fazer compras, comer e passear"
+    },
+    {
+      "nome": "Restaurantes",
+      "descricao": "Lugar para comer",
+      "id": "PnSD2pjKx9U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
