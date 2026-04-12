@@ -6,6 +6,6 @@ import { Component, signal } from '@angular/core';
   standalone: false,
   styleUrl: './app.component.scss'
 })
-export class App {
+export class AppComponent {
   protected readonly title = signal('passeio-app');
 }
