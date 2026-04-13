@@ -9,6 +9,11 @@
       "nome": "Restaurantes",
       "descricao": "Lugar para comer",
       "id": "PnSD2pjKx9U"
+    },
+    {
+      "nome": "Praias",
+      "descricao": "Lugares para tomar banho de mar",
+      "id": "ss0MydjIDCg"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
