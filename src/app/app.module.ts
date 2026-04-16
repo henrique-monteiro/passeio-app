@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { provideHttpClient, withFetch } from '@angular/common/http';
+import { GaleriaComponent } from './galeria/galeria/galeria.component';
 
 @NgModule({
   declarations: [
